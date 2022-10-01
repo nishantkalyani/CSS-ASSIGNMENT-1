@@ -1,0 +1,21 @@
+body{
+
+     color: rgb(138,6,8);
+    background-color:white ;
+
+}
+.text{
+       font-style: italic;
+}
+.span{
+    font-weight: bold;
+}
+.text2{
+    text-decoration:line-through;
+}
+.text3{
+    letter-spacing: 1cm;
+}
+.text4{
+    text-decoration:line-through;
+}
